@@ -16,3 +16,10 @@ Currently, sorting a list in Python using list.sort() has a run time of O(nlog(n
 - insert element
 - delete element
 - check class
+
+* 9/26/22
+
+- look function added
+- insert_element renamed: insert
+- delete_element renamed: delete
+- self.length property added
